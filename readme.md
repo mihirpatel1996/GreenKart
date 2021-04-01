@@ -11,7 +11,7 @@ Deployed Link: https://greenkart-csci5709.herokuapp.com/
 [Aman Vishnani](aman.vishnani@dal.ca)
 [Jatin Partap Rana][jt655878@dal.ca]
 [Hirenkumar Khant](hr266981@dal.ca)
-[Mihir Patel]()
+[Mihir Patel](mihirpatel@dal.ca)
 
 ## Framework
 The webiste uses ReactJS for the frontend.
@@ -19,13 +19,6 @@ Backend utilizes Expressjs, Sequalize on top of Nodejs.
 Project uses MySQL for structured and related data.
 Bootstrap is used for making webpages responsive `(Bootstrap, W3schools, 2020)`
 
-## Contributions:
-Each member has built 2 Modules which include both front-end and back-end. Components built by members are:-
-1. Aman Vishnani- Cart management, order management
-2. Shubham Suri - Product details, Review
-3. Mihir patel - Contact us, AdminFAQ
-4. Hirenkumar Khant - Search, Quick Checkout
-5. Jatin Rana - Payment, User Management
 
 ## Getting Started
 
