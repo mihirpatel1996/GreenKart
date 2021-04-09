@@ -136,6 +136,9 @@ This website has refered to implement router routes in "App.js" file.
 3. [Products](https://greenkart-csci5709.herokuapp.com/product)
 4. [Review](https://greenkart-csci5709.herokuapp.com/rating)
 5. [Search](https://greenkart-csci5709.herokuapp.com/search/apple)
+6. [FAQ](https://greenkart-csci5709.herokuapp.com/adminfaq)
+7. [Contact Us](https://greenkart-csci5709.herokuapp.com/contact)
+
 
 ## User Experience
 
